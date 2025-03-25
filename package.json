@@ -1,6 +1,7 @@
 {
   "name": "testing-react",
   "version": "0.1.0",
+  "homepage": "https://daangrah.github.io/testing-react-redux/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
