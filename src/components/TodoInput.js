@@ -14,7 +14,7 @@ function TodoInput({addTask}){
     return (
         <div className="input-area">
 
-            <input placeholder='your todo' className='input-place'
+            <input placeholder='What needs to be done?' className='input-place'
             type='text'
             value={value}
             onChange={(e) => setValue(e.target.value)}
